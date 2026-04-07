@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou a Talita 
 
-<!--
-**talitaoagostinho/talitaoagostinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnica em Desenvolvimento de Sistemas pelo Colégio Pedro II  
+💻 Estudante de Sistemas de Informação (UFRRJ - trancado)  
 
-Here are some ideas to get you started:
+## Tecnologias
+- Python, JavaScript, C, C#, SQL  
+- HTML, CSS, Bootstrap  
+- .NET (iniciante)  
+- Git, GitHub, Linux  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interesses
+- Back-end  
+- Dados  
+
+## Contato
+LinkedIn: https://www.linkedin.com/in/talita-oliveira-401b41311/
