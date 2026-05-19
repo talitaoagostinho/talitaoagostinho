@@ -1,24 +1,33 @@
-# Olá, eu sou a Talita Oliveira!
-🎓 Técnica em Desenvolvimento de Sistemas pelo Colégio Pedro II
-💻 Estudante de Sistemas de Informação (UFRRJ - atualmente trancado)
+# Olá, eu sou a Talita Oliveira! 👋
 
-## Minhas Tecnologias
+🎓 **Técnica em Desenvolvimento de Sistemas** (Colégio Pedro II) | 🚀 **Graduanda em Engenharia de Software** (Uninter)
 
-* **Linguagens:** TypeScript, C#, SQL, JavaScript, Python, C. 
-* **Frameworks:** .NET (ASP.NET MVC), Node.js. 
-* **Banco de Dados:** SQL Server (Modelagem e Consultas), MySQL. 
-* **Outros:** Git, GitHub, Linux, ESP32/Arduino e Modelagem de Dados. 
+Desenvolvedora Back-end focada no ecossistema .NET, TypeScript e modelagem de banco de dados. Tenho uma base lógica e teórica robusta construída ao longo de 4 períodos de Sistemas de Informação na **UFRRJ** (onde também atuei como bolsista PET-SI), e atualmente foco a minha evolução prática na Engenharia de Software pela Uninter.
 
-## Interesses
-* Back-end
-* Banco de Dados
+Gosto de estruturar arquiteturas limpas, organizar regras de negócio complexas e garantir a segurança de tipos no código.
 
-## Projetos em Destaque
+---
 
-* **[Saúde Pet](https://github.com/talitaoagostinho/saude-pet):** Gestão de saúde animal com foco em **TypeScript** e Programação Orientada a Objetos. 
-* **[TCC - Sistema de Biblioteca](https://github.com/talitaoagostinho/tcc-biblioteca-cp2):** Sistema completo em **C# e ASP.NET MVC** focado em automação de empréstimos e ao acesso aos acervos. 
+### 🛠️ Minhas Tecnologias
 
-## Certificações Recentes
+* **Linguagens:** TypeScript, C#, SQL, JavaScript, Python
+* **Frameworks/Plataformas:** .NET (ASP.NET MVC), Node.js
+* **Banco de Dados:** SQL Server (Modelagem e Consultas), MySQL
+* **Outros:** Git, GitHub, Linux, ESP32/Arduino, Modelagem de Dados
 
-* **Modelagem de Dados** - Fundação Bradesco (2026). 
-* **Lógica Orientada a Objetos** - LinkedIn Learning (2025). 
+---
+
+### 🚀 Projetos em Destaque
+
+* 🐾 **[Saúde Pet](https://github.com/talitaoagostinho/saude-pet)**: Sistema de gestão para rotinas e dados médicos de pets desenvolvido em TypeScript, aplicando conceitos avançados de POO e tipagem estática.
+* 📚 **[TCC - Gerenciamento de Biblioteca](https://github.com/talitaoagostinho/tcc-biblioteca-cp2)**: Sistema completo de automação de acervo escolar utilizando ASP.NET MVC (C#) e persistência de dados estruturada no SQL Server.
+
+_Também possuo experiência prática em projetos acadêmicos de IoT e Sistemas Embarcados, incluindo o desenvolvimento de um sistema de **Monitoramento Agrícola** com hardware (ESP32/Arduino) e integração Bluetooth durante minha trajetória na UFRRJ._
+
+---
+
+### 📫 Vamos nos conectar?
+
+* **LinkedIn:** [linkedin.com/in/talitaoagostinho](https://www.linkedin.com/in/talitaoagostinho/)
+* **E-mail:** talitaoagostinho.en2@gmail.com
+
